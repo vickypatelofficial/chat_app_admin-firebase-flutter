@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931766122770",
+    "project_id": "btown-55cdc",
+    "storage_bucket": "btown-55cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931766122770:android:3c6bc4357c99a0763b9bcb",
+        "android_client_info": {
+          "package_name": "com.bestflux.btown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMmz4Tv6MbmBHnnF7pLK3Y4KYnqb56y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
